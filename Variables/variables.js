@@ -1,0 +1,21 @@
+var n1 = 10;
+// console.log(n1);
+var newString = "Hello World";
+var newString2 = "all the power is within you";
+// console.log(newString);
+// console.log(newString2);
+var s3 = newString;
+// console.log(s3);
+var newBoolean = true;
+var newBoolean2 = false;
+// console.log(newBoolean);
+// console.log(newBoolean2);
+var anyOne = "hello";
+// console.log(anyOne);
+var array1 = ["angularjs", "reactjs", "nodejs"];
+console.log(array1);
+console.log(array1[2]);
+console.log(array1.length);
+//heterogenous array
+var array20 = [123, "AngularJs", true];
+console.log(array2);
